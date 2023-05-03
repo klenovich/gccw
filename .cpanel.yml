@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/klenrdzb/godchat/t
+    - /bin/cp -R * $DEPLOYPATH
