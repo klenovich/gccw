@@ -1,0 +1,22 @@
+{
+  "name": "gccw",
+  "version": "1.0.0",
+  "description": "gccw",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klucas12345/gccw.git"
+  },
+  "keywords": [
+    "beast"
+  ],
+  "author": "l",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klucas12345/gccw/issues"
+  },
+  "homepage": "https://github.com/klucas12345/gccw#readme"
+}
